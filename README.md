@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**rafaeldrrmachado/rafaeldrrmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there 👋
 
-Here are some ideas to get you started:
+#### Project Manager/Analyst and aspiring Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technology Project Management Specialist at [McDonald's](https://www.mcdonalds.pt/)
+
+MSc Data Science Student at [ISCTE-IUL](https://www.iscte-iul.pt/programmes/degree/0329)
+
+- ⚙️ Daily tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,git,vscode,docker,mongodb,postman" />
+  </a>
+</p>
+
+- 📊 Interests: Data Science, Data Engineering, Analytics, NLP and Process Automation
+- 🚲 Exploring urban mobility and open-data projects
+- 🌍 Based in Lisbon, Portugal
+- 💬 Ask me about data science, analytics, Power BI, automation and open data
+- 💻 Tech Stack
