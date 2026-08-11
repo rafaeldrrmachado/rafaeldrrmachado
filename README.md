@@ -1,7 +1,7 @@
 
 ### Hello there 👋
 
-#### Project Manager/Analyst and aspiring Data Scientist
+#### I'm Rafael, Project Manager, Analyst and aspiring Data Scientist
 
 Technology Project Management Specialist at [McDonald's](https://www.mcdonalds.pt/)
 
