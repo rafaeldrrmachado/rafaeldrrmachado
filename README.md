@@ -7,10 +7,9 @@ Technology Project Management Specialist at [McDonald's](https://www.mcdonalds.p
 
 MSc Data Science Student at [ISCTE-IUL](https://www.iscte-iul.pt/programmes/degree/0329)
 
-- 📊 Interests: Data Science, Data Engineering, Analytics, NLP and Process Automation
-- 🚲 Exploring urban mobility, open-data and volunteering projects
+- 📊 What I work on: Data Science, Analytics, NLP and Process Automation
 - 🌍 Based in Lisbon, Portugal
-- 💬 Ask me about Data science, analytics, Power BI, automation and open data
+- 💬 Interested in open data and open source software, volunteering and urban mobility focused projects
 
 ### Tools I Use
 <p align="center">
