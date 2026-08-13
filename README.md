@@ -1,7 +1,7 @@
 
-### Hello there 👋
+## Hello there 👋
 
-#### I'm Rafael, Project Manager, Analyst and aspiring Data Scientist
+### I'm Rafael, Project Manager, Analyst and aspiring Data Scientist
 
 Technology Project Management Specialist at [McDonald's](https://www.mcdonalds.pt/)
 
@@ -11,11 +11,15 @@ MSc Data Science Student at [ISCTE-IUL](https://www.iscte-iul.pt/programmes/degr
 - 🌍 Based in Lisbon, Portugal
 - 💬 Interested in open data and open source software, volunteering and urban mobility focused projects
 
-### Tools I Use Daily
+#### Tools I Use
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
+   <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" alt="R" />
+   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
+   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB" />
+   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" alt="Power BI" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
