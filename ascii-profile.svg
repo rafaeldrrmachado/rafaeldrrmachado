@@ -1,82 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1012" height="493" viewBox="0 0 1012 493" role="img" aria-label="Rafael Machado">
-  <rect width="1012" height="493" rx="10" fill="rgba(0, 0, 0, 0.85)" stroke="#5c6370" />
-  <g font-family="&#39;JetBrains Mono&#39;, &#39;SFMono-Regular&#39;, Consolas, &#39;Liberation Mono&#39;, Menlo, monospace" font-size="7.29">
-    <text x="28" y="33.7" xml:space="preserve" fill="#ffffff"></text>
-    <text x="28" y="41.8" xml:space="preserve" fill="#ffffff"></text>
-    <text x="28" y="49.9" xml:space="preserve" fill="#ffffff"></text>
-    <text x="28" y="58.0" xml:space="preserve" fill="#ffffff"></text>
-    <text x="28" y="66.1" xml:space="preserve" fill="#ffffff"></text>
-    <text x="28" y="74.1" xml:space="preserve" fill="#ffffff"></text>
-    <text x="28" y="82.2" xml:space="preserve" fill="#ffffff"></text>
-    <text x="28" y="90.3" xml:space="preserve" fill="#ffffff"></text>
-    <text x="28" y="98.4" xml:space="preserve" fill="#ffffff"></text>
-    <text x="28" y="106.5" xml:space="preserve" fill="#ffffff">                                       =#+ .</text>
-    <text x="28" y="114.6" xml:space="preserve" fill="#ffffff">                      -...-**++@#+*@#=%*=:++:-.....-</text>
-    <text x="28" y="122.7" xml:space="preserve" fill="#ffffff">                 . +:@*@%#*@==%@%#-.=:=-:#.-:#+=+=..</text>
-    <text x="28" y="130.8" xml:space="preserve" fill="#ffffff">                 *@@@%%%***@++*+:=:=::-.:: - =-.:-:.-</text>
-    <text x="28" y="138.9" xml:space="preserve" fill="#ffffff">                *@+%%%*@##=+*:-#*:.-  - =-........-..-</text>
-    <text x="28" y="147.0" xml:space="preserve" fill="#ffffff">             .-#*#::+*:==:==:+=%=  =.-...--.....-.-...-</text>
-    <text x="28" y="155.1" xml:space="preserve" fill="#ffffff">             .#@#*--:+--=..:*---.  . ..-.............---</text>
-    <text x="28" y="163.2" xml:space="preserve" fill="#ffffff">             .*%#=:=:.:-=-.  ..-+===--      .............-</text>
-    <text x="28" y="171.2" xml:space="preserve" fill="#ffffff">              .=..-.- :   =+#%@@@@@%@%#***=-   ........-..-</text>
-    <text x="28" y="179.3" xml:space="preserve" fill="#ffffff">              ::-.-..  :*@@@@@%%%%####*#***#**:  .........</text>
-    <text x="28" y="187.4" xml:space="preserve" fill="#ffffff">              ..-... -#@%@@%%###%%#########***#*- ........-</text>
-    <text x="28" y="195.5" xml:space="preserve" fill="#ffffff">              -.... :@@%@@@@@%##%%###########**##+ .......-</text>
-    <text x="28" y="203.6" xml:space="preserve" fill="#ffffff">              -..- .%@@%%%@@@%#*#*****+***####**##-.......-</text>
-    <text x="28" y="211.7" xml:space="preserve" fill="#ffffff">              .:.-.:%@@@@%%%###*++********+**#####= ......</text>
-    <text x="28" y="219.8" xml:space="preserve" fill="#ffffff">              --.- =%@@@@%@@@@@%#####%#%%%##*****#+ .....-</text>
-    <text x="28" y="227.9" xml:space="preserve" fill="#ffffff">               -..-=@@@@@%#**#%@@@%%%%%*++**##***#* .....-</text>
-    <text x="28" y="236.0" xml:space="preserve" fill="#ffffff">               --.-:%@@@@@%#*=+*#@%***+++###%@%%***......</text>
-    <text x="28" y="244.1" xml:space="preserve" fill="#ffffff">               -.  .%@@@+:=..- .*%*++=- ---.--+##*+  ...-</text>
-    <text x="28" y="252.2" xml:space="preserve" fill="#ffffff">                .*+.#@@%#%%#*==*%%#++*+==+***++*#*+ -*:.</text>
-    <text x="28" y="260.3" xml:space="preserve" fill="#ffffff">                 =@**@@%%#**#%@@%#*+++##***+**#****=%%:</text>
-    <text x="28" y="268.4" xml:space="preserve" fill="#ffffff">                 =@%#@%@%#######*%#*++++**#####*##++#@:</text>
-    <text x="28" y="276.4" xml:space="preserve" fill="#ffffff">                  @@%%%@@@%##++@@@@%%%%*+##%##%###+***</text>
-    <text x="28" y="284.5" xml:space="preserve" fill="#ffffff">                  +*%#%%@%%#***#=+##+-*+++*##%%#**+*#%</text>
-    <text x="28" y="292.6" xml:space="preserve" fill="#ffffff">                   @@#%%%%#+#%%%@%**#******++##***+#%*</text>
-    <text x="28" y="300.7" xml:space="preserve" fill="#ffffff">                   @@%@%%#*%@@@%##******#####*#*****:</text>
-    <text x="28" y="308.8" xml:space="preserve" fill="#ffffff">                     #@%%#*+=+++==+=::::::=+###*#** .</text>
-    <text x="28" y="316.9" xml:space="preserve" fill="#ffffff">                     -@%%%##%%@%%#*****#**#**#*###+</text>
-    <text x="28" y="325.0" xml:space="preserve" fill="#ffffff">                      @%%%%#%%@%@%%#%%###***#****%.</text>
-    <text x="28" y="333.1" xml:space="preserve" fill="#ffffff">                      *@%#%%#%%%##***###********#*.</text>
-    <text x="28" y="341.2" xml:space="preserve" fill="#ffffff">                     - @%%%%%%%##*++++**********#</text>
-    <text x="28" y="349.3" xml:space="preserve" fill="#ffffff">                       +%##%%#%%%#*****+*****+++#</text>
-    <text x="28" y="357.4" xml:space="preserve" fill="#ffffff">                       :@####%%####*******+*****%</text>
-    <text x="28" y="365.5" xml:space="preserve" fill="#ffffff">                       -@%%####****************#%.</text>
-    <text x="28" y="373.5" xml:space="preserve" fill="#ffffff">                       -@%%%#####**************##-</text>
-    <text x="28" y="381.6" xml:space="preserve" fill="#ffffff">                       #@%%%%%#%%###************#+</text>
-    <text x="28" y="389.7" xml:space="preserve" fill="#ffffff">                 -.+@*%%%%%%#%%#%####*************+..</text>
-    <text x="28" y="397.8" xml:space="preserve" fill="#ffffff">              #@@@@@@*##%%%%#%%%%##%#************+++@@#++</text>
-    <text x="28" y="405.9" xml:space="preserve" fill="#ffffff">          .#@@@@@@@@@@:#%%%%###%######***********+:+@@@@@@%.</text>
-    <text x="28" y="414.0" xml:space="preserve" fill="#ffffff">       =@@@@@@@@@@@@@@@#%###########*************=+@@@@@@@@@@+.</text>
-    <text x="28" y="422.1" xml:space="preserve" fill="#ffffff">  +@@@@@@@@@@@@@@@@@@@@@######**####***********++@@@@@@@@@%%@@@@*-</text>
-    <text x="28" y="430.2" xml:space="preserve" fill="#ffffff">@@@@@@@@@@@@@@@@@@@@@@@@@@%****************++=*@@@@@@@@@@%%%@@@@@@@%:</text>
-    <text x="28" y="438.3" xml:space="preserve" fill="#ffffff">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*=++++++==+*#@@@@@@@@@%%%@@@@@@@@@@%@@@@-</text>
-    <text x="28" y="446.4" xml:space="preserve" fill="#ffffff">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@%@%%@%@@@@@@@@@@@</text>
-    <text x="28" y="454.5" xml:space="preserve" fill="#ffffff">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%@@@@@@@@@@@@@</text>
-    <text x="28" y="462.6" xml:space="preserve" fill="#ffffff">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1012" height="429" viewBox="0 0 1012 429" role="img" aria-label="Rafael Machado">
+  <rect width="1012" height="429" rx="10" fill="rgba(0, 0, 0, 0.85)" stroke="#5c6370" />
+  <g font-family="&#39;JetBrains Mono&#39;, &#39;SFMono-Regular&#39;, Consolas, &#39;Liberation Mono&#39;, Menlo, monospace" font-size="6.21">
+    <text x="28" y="32.8" xml:space="preserve" fill="#ffffff"></text>
+    <text x="28" y="39.7" xml:space="preserve" fill="#ffffff"></text>
+    <text x="28" y="46.6" xml:space="preserve" fill="#ffffff"></text>
+    <text x="28" y="53.5" xml:space="preserve" fill="#ffffff"></text>
+    <text x="28" y="60.4" xml:space="preserve" fill="#ffffff">                                :  :  . =#++</text>
+    <text x="28" y="67.3" xml:space="preserve" fill="#ffffff">                     :...-.*#+:###:=%#:*:-.-=+==.</text>
+    <text x="28" y="74.2" xml:space="preserve" fill="#ffffff">                  :-@#+#*=+%=-+#%+*  .-.:..*   *.=:=:</text>
+    <text x="28" y="81.1" xml:space="preserve" fill="#ffffff">                *%%%##+#++=%+-*+- ...--.  -. . .:  .</text>
+    <text x="28" y="88.0" xml:space="preserve" fill="#ffffff">               *#:*#+**%+#:+#:.==:+ :     -          -</text>
+    <text x="28" y="94.9" xml:space="preserve" fill="#ffffff">              -##-=+*=---..:.- =#.  .      -</text>
+    <text x="28" y="101.8" xml:space="preserve" fill="#ffffff">             %%*:- -=-:.: :-++: =   .-</text>
+    <text x="28" y="108.7" xml:space="preserve" fill="#ffffff">             @#::- .- ..*</text>
+    <text x="28" y="115.6" xml:space="preserve" fill="#ffffff">             .=:-.-: .-.     .:=###*+=:-..</text>
+    <text x="28" y="122.5" xml:space="preserve" fill="#ffffff">             -   .   .   -*##%%@%%%#*##*+**+=:.</text>
+    <text x="28" y="129.3" xml:space="preserve" fill="#ffffff">             :-  .     +#%%#######*+++++++++++++=.</text>
+    <text x="28" y="136.2" xml:space="preserve" fill="#ffffff">                     =####%#*****#*+++++***++++=+++</text>
+    <text x="28" y="143.1" xml:space="preserve" fill="#ffffff">             .      #%###%%%##*******+********+++++*:</text>
+    <text x="28" y="150.0" xml:space="preserve" fill="#ffffff">             .     +%######%%#**+*+++++=++++++++++++*</text>
+    <text x="28" y="156.9" xml:space="preserve" fill="#ffffff">             .  - .*#%%####***+=====+=========++++++*-</text>
+    <text x="28" y="163.8" xml:space="preserve" fill="#ffffff">             .  . -*%%%%#####***++++++*++++++++++*++*=</text>
+    <text x="28" y="170.7" xml:space="preserve" fill="#ffffff">                  .*%%%%###%%%%%##***#####**+++++=+++=</text>
+    <text x="28" y="177.6" xml:space="preserve" fill="#ffffff">              .  .-*%##%##+=:==+####***++===*****+=+++</text>
+    <text x="28" y="184.5" xml:space="preserve" fill="#ffffff">              .   .*%#%@@#*+=:-:+*%*====:--:::+*##*=++</text>
+    <text x="28" y="191.4" xml:space="preserve" fill="#ffffff">                   +%%%*--:. .. -+*+=:=-  --.-  -=*++=</text>
+    <text x="28" y="198.3" xml:space="preserve" fill="#ffffff">                *: =%%#**##*=:-:***+====:--=+++===+++=  :*</text>
+    <text x="28" y="205.2" xml:space="preserve" fill="#ffffff">                *#==#%##**+++*###*++===++++====++++++=-=#*</text>
+    <text x="28" y="212.1" xml:space="preserve" fill="#ffffff">                *@#+####**++***#*+++==::=++++++++++++=:+%%</text>
+    <text x="28" y="219.0" xml:space="preserve" fill="#ffffff">                 @**###%##***+=+##%#***+=:=+******+**==#=*</text>
+    <text x="28" y="225.9" xml:space="preserve" fill="#ffffff">                 #+#*##%%#**+=:+*-+#**-:#==+******+++==+-:</text>
+    <text x="28" y="232.7" xml:space="preserve" fill="#ffffff">                 =##*#####*+=******++=+=======+***+++=+*@</text>
+    <text x="28" y="239.6" xml:space="preserve" fill="#ffffff">                  @#*####*+=**#**#+==++=+===++==**+++=*#@</text>
+    <text x="28" y="246.5" xml:space="preserve" fill="#ffffff">                  %+#####+**#%#***++++++++++++*=++=++==</text>
+    <text x="28" y="253.4" xml:space="preserve" fill="#ffffff">                    .%#*#*+=:::==:::-......--=++*+++++</text>
+    <text x="28" y="260.3" xml:space="preserve" fill="#ffffff">                     @####**####**+==+==+++++++++++++=</text>
+    <text x="28" y="267.2" xml:space="preserve" fill="#ffffff">                     +#*###**######******+++++++++++*.</text>
+    <text x="28" y="274.1" xml:space="preserve" fill="#ffffff">                      %#*******#***++****++++++++++**</text>
+    <text x="28" y="281.0" xml:space="preserve" fill="#ffffff">                      +#****#****+======+++=++++++=+</text>
+    <text x="28" y="287.9" xml:space="preserve" fill="#ffffff">                       %****#*****+=========+==+===*</text>
+    <text x="28" y="294.8" xml:space="preserve" fill="#ffffff">                       @*+***###**++++++===========*</text>
+    <text x="28" y="301.7" xml:space="preserve" fill="#ffffff">                       @#***+***+++++++++++===+==++*</text>
+    <text x="28" y="308.6" xml:space="preserve" fill="#ffffff">                       %##**+*++++++++++++==++==+++*</text>
+    <text x="28" y="315.5" xml:space="preserve" fill="#ffffff">                       %###**+*+*+++======+====++++*</text>
+    <text x="28" y="322.4" xml:space="preserve" fill="#ffffff">                       %##*********++==+=====+++++++:</text>
+    <text x="28" y="329.2" xml:space="preserve" fill="#ffffff">                   ****###***********+++++++++++++++=-</text>
+    <text x="28" y="336.1" xml:space="preserve" fill="#ffffff">             -#@@@@@+++*##************++++++++++++++===:@.</text>
+    <text x="28" y="343.0" xml:space="preserve" fill="#ffffff">           %@@@@@@@@@-=*#************+++++++++++++++=:-#@@@#@#</text>
+    <text x="28" y="349.9" xml:space="preserve" fill="#ffffff">       +@@%@@@@@#@@@@#=*******+*****++++++++++++++++= +@@%%*%###.</text>
+    <text x="28" y="356.8" xml:space="preserve" fill="#ffffff">  -+*@@@##%@@%@@@%@@@@%+*****+++****+++++++++++++++=-*@@%%#%%##%%@%:</text>
+    <text x="28" y="363.7" xml:space="preserve" fill="#ffffff">@@@@@%##%%@@%%%@%%@@@@@@++***++++++++++++=+++++++=:=@@@%%###########%%+</text>
+    <text x="28" y="370.6" xml:space="preserve" fill="#ffffff">%%@%%#%%@@@@%%%@%#%@@@@@@@*=++++++++++++++++===::+@@@@%%###########%###%</text>
+    <text x="28" y="377.5" xml:space="preserve" fill="#ffffff">%%%%%%%%%%@%%%@@%##%@@@@@@@@@%+=-:::=:::::--==*@@@@@%%%##############%##</text>
+    <text x="28" y="384.4" xml:space="preserve" fill="#ffffff">%%%%%%%#%%%###%@@###%@@@@@@@@@@@@@@%###%%@@@@@@@@%%%%#################%#</text>
+    <text x="28" y="391.3" xml:space="preserve" fill="#ffffff">%%%%%%%%@@@@%##%%%##%%%@@@@@@@@@@@@@@@@@@@@@@%%%%%#%##################%%</text>
+    <text x="28" y="398.2" xml:space="preserve" fill="#ffffff">@%%@@@@%@@@@@@@%%%%%####%%@@@@@@@@@@@@@@@%%%@%%%%%####%%#####%%%%%%%%%%%</text>
   </g>
-  <g font-family="&#39;JetBrains Mono&#39;, &#39;SFMono-Regular&#39;, Consolas, &#39;Liberation Mono&#39;, Menlo, monospace" font-size="19">
-    <text x="376.9" y="136.3" xml:space="preserve" fill="#34B7FF">rafael@machado</text>
-    <line x1="552.7" y1="130.2" x2="984.0" y2="130.2" stroke="#5c6370" stroke-width="1.6" stroke-linecap="round" />
-    <text x="376.9" y="186.3" xml:space="preserve"><tspan fill="#5c6370">▪ </tspan><tspan fill="#9AE1FF">Company:</tspan></text>
-    <text x="502.3" y="186.3" xml:space="preserve" fill="#5c6370">......................</text>
-    <text x="984.0" y="186.3" xml:space="preserve" text-anchor="end" fill="#ffffff">McDonald&apos;s Portugal</text>
-    <text x="376.9" y="211.3" xml:space="preserve"><tspan fill="#5c6370">▪ </tspan><tspan fill="#9AE1FF">Location:</tspan></text>
-    <text x="513.7" y="211.3" xml:space="preserve" fill="#5c6370">........................</text>
-    <text x="984.0" y="211.3" xml:space="preserve" text-anchor="end" fill="#ffffff">Lisbon, Portugal</text>
-    <text x="376.9" y="236.3" xml:space="preserve"><tspan fill="#5c6370">▪ </tspan><tspan fill="#9AE1FF">Tools I Use:</tspan></text>
-    <text x="547.9" y="236.3" xml:space="preserve" fill="#5c6370">......</text>
-    <text x="984.0" y="236.3" xml:space="preserve" text-anchor="end" fill="#ffffff">Python, R, SQL, Docker, PowerBI</text>
-    <text x="376.9" y="261.3" xml:space="preserve"><tspan fill="#5c6370">▪ </tspan><tspan fill="#9AE1FF">Interested in:</tspan></text>
-    <text x="570.7" y="261.3" xml:space="preserve" fill="#5c6370">.......</text>
-    <text x="984.0" y="261.3" xml:space="preserve" text-anchor="end" fill="#ffffff">Open Data and Urban Mobility</text>
-    <text x="376.9" y="311.3" xml:space="preserve"><tspan fill="#34B7FF">- Contact </tspan><tspan fill="#5c6370">───────────────────────────────────────────</tspan></text>
-    <text x="376.9" y="336.3" xml:space="preserve"><tspan fill="#5c6370">▪ </tspan><tspan fill="#9AE1FF">Email:</tspan></text>
-    <text x="479.5" y="336.3" xml:space="preserve" fill="#5c6370">.......................</text>
-    <text x="984.0" y="336.3" xml:space="preserve" text-anchor="end" fill="#ffffff">rafaeldrrm@gmail.com</text>
-    <text x="376.9" y="361.3" xml:space="preserve"><tspan fill="#5c6370">▪ </tspan><tspan fill="#9AE1FF">LinkedIn:</tspan></text>
-    <text x="513.7" y="361.3" xml:space="preserve" fill="#5c6370">..............................</text>
-    <text x="984.0" y="361.3" xml:space="preserve" text-anchor="end" fill="#ffffff">rafaeldrrm</text>
+  <g font-family="&#39;JetBrains Mono&#39;, &#39;SFMono-Regular&#39;, Consolas, &#39;Liberation Mono&#39;, Menlo, monospace" font-size="18">
+    <text x="330.3" y="84.2" xml:space="preserve" fill="#34B7FF">rafael@machado</text>
+    <line x1="496.8" y1="78.4" x2="984.0" y2="78.4" stroke="#5c6370" stroke-width="1.6" stroke-linecap="round" />
+    <text x="330.3" y="132.2" xml:space="preserve"><tspan fill="#34B7FF">- About me: </tspan><tspan fill="#5c6370">────────────────────────────────────────────────</tspan></text>
+    <text x="330.3" y="156.2" xml:space="preserve"><tspan fill="#5c6370">▪ </tspan><tspan fill="#9AE1FF">Location:</tspan></text>
+    <text x="459.9" y="156.2" xml:space="preserve" fill="#5c6370">...............................</text>
+    <text x="984.0" y="156.2" xml:space="preserve" text-anchor="end" fill="#ffffff">Lisbon, Portugal</text>
+    <text x="330.3" y="180.2" xml:space="preserve"><tspan fill="#5c6370">▪ </tspan><tspan fill="#9AE1FF">Company:</tspan></text>
+    <text x="449.1" y="180.2" xml:space="preserve" fill="#5c6370">.............................</text>
+    <text x="984.0" y="180.2" xml:space="preserve" text-anchor="end" fill="#ffffff">McDonald&apos;s Portugal</text>
+    <text x="330.3" y="204.2" xml:space="preserve"><tspan fill="#5c6370">▪ </tspan><tspan fill="#9AE1FF">What I do:</tspan></text>
+    <text x="470.7" y="204.2" xml:space="preserve" fill="#5c6370">.......................</text>
+    <text x="984.0" y="204.2" xml:space="preserve" text-anchor="end" fill="#ffffff">Project Manager/Analyst</text>
+    <text x="330.3" y="228.2" xml:space="preserve"><tspan fill="#5c6370">▪ </tspan><tspan fill="#9AE1FF">Tools I Use:</tspan></text>
+    <text x="492.3" y="228.2" xml:space="preserve" fill="#5c6370">.............</text>
+    <text x="984.0" y="228.2" xml:space="preserve" text-anchor="end" fill="#ffffff">Python, R, SQL, Docker, PowerBI</text>
+    <text x="330.3" y="252.2" xml:space="preserve"><tspan fill="#5c6370">▪ </tspan><tspan fill="#9AE1FF">Interested in:</tspan></text>
+    <text x="513.9" y="252.2" xml:space="preserve" fill="#5c6370">..............</text>
+    <text x="984.0" y="252.2" xml:space="preserve" text-anchor="end" fill="#ffffff">Open Data and Urban Mobility</text>
+    <text x="330.3" y="300.2" xml:space="preserve"><tspan fill="#34B7FF">- Contact </tspan><tspan fill="#5c6370">──────────────────────────────────────────────────</tspan></text>
+    <text x="330.3" y="324.2" xml:space="preserve"><tspan fill="#5c6370">▪ </tspan><tspan fill="#9AE1FF">Email:</tspan></text>
+    <text x="427.5" y="324.2" xml:space="preserve" fill="#5c6370">..............................</text>
+    <text x="984.0" y="324.2" xml:space="preserve" text-anchor="end" fill="#ffffff">rafaeldrrm@gmail.com</text>
+    <text x="330.3" y="348.2" xml:space="preserve"><tspan fill="#5c6370">▪ </tspan><tspan fill="#9AE1FF">LinkedIn:</tspan></text>
+    <text x="459.9" y="348.2" xml:space="preserve" fill="#5c6370">.....................................</text>
+    <text x="984.0" y="348.2" xml:space="preserve" text-anchor="end" fill="#ffffff">rafaeldrrm</text>
   </g>
 </svg>
